@@ -1,0 +1,11 @@
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\UCSD\csharpthree\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\UCSD\csharpthree\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\UCSD\csharpthree\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\UCSD\csharpthree\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\UCSD\csharpthree\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\UCSD\csharpthree\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
